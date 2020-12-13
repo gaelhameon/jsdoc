@@ -40,6 +40,7 @@
   "bin": {
     "jsdoc": "jsdoc.js"
   },
+  "main": "index.js",
   "bugs": "https://github.com/jsdoc/jsdoc/issues",
   "author": {
     "name": "Michael Mathews",
